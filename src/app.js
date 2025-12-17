@@ -4,7 +4,7 @@ import helmet from 'helmet';
 import morgan from 'morgan';
 import cors from 'cors';
 import cookieParser from 'cookie-parser';
-import { timestamp } from 'drizzle-orm/gel-core';
+import authRoutes from './routes/auth.routes.js';
 
 const app = express();
 
@@ -39,6 +39,6 @@ app.get('/api', (req, res) => {
   });
 });
 
-// app.use('/api/auth', authRoutes); //api/auth/sign-in
+app.use('/api/auth', authRoutes); //api/auth/sign-in
 
 export default app;

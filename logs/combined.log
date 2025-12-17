@@ -8,3 +8,6 @@
 {"level":"info","message":"::1 - - [17/Dec/2025:03:18:32 +0000] \"GET / HTTP/1.1\" 200 24 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api","timestamp":"2025-12-17T03:18:32.509Z"}
 {"level":"info","message":"::1 - - [17/Dec/2025:03:18:42 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api","timestamp":"2025-12-17T03:18:42.579Z"}
 {"level":"info","message":"::1 - - [17/Dec/2025:03:18:56 +0000] \"GET /api HTTP/1.1\" 200 42 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api","timestamp":"2025-12-17T03:18:56.054Z"}
+{"level":"info","message":"::1 - - [17/Dec/2025:03:21:25 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api","timestamp":"2025-12-17T03:21:25.575Z"}
+{"level":"info","message":"::1 - - [17/Dec/2025:03:23:22 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 404 156 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api","timestamp":"2025-12-17T03:23:22.563Z"}
+{"level":"info","message":"::1 - - [17/Dec/2025:03:25:01 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 34 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api","timestamp":"2025-12-17T03:25:01.062Z"}

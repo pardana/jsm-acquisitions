@@ -11,3 +11,26 @@
 {"level":"info","message":"::1 - - [17/Dec/2025:03:21:25 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api","timestamp":"2025-12-17T03:21:25.575Z"}
 {"level":"info","message":"::1 - - [17/Dec/2025:03:23:22 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 404 156 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api","timestamp":"2025-12-17T03:23:22.563Z"}
 {"level":"info","message":"::1 - - [17/Dec/2025:03:25:01 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 34 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api","timestamp":"2025-12-17T03:25:01.062Z"}
+{"level":"info","message":"::1 - - [17/Dec/2025:04:24:05 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 200 34 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api","timestamp":"2025-12-17T04:24:05.228Z"}
+{"level":"info","message":"::1 - - [17/Dec/2025:04:26:22 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 92 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api","timestamp":"2025-12-17T04:26:22.779Z"}
+{"level":"info","message":"::1 - - [17/Dec/2025:04:27:06 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 92 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api","timestamp":"2025-12-17T04:27:06.346Z"}
+{"level":"info","message":"::1 - - [17/Dec/2025:04:27:35 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 92 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api","timestamp":"2025-12-17T04:27:35.334Z"}
+{"level":"info","message":"::1 - - [17/Dec/2025:04:28:30 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 196 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api","timestamp":"2025-12-17T04:28:30.991Z"}
+{"level":"info","message":"::1 - - [17/Dec/2025:04:28:35 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 92 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api","timestamp":"2025-12-17T04:28:35.651Z"}
+{"level":"info","message":"::1 - - [17/Dec/2025:04:29:21 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 144 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api","timestamp":"2025-12-17T04:29:21.815Z"}
+{"level":"info","message":"::1 - - [17/Dec/2025:04:29:33 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 92 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api","timestamp":"2025-12-17T04:29:33.108Z"}
+{"level":"info","message":"User registered successfully: aditria@mail.com","service":"acquisitions-api","timestamp":"2025-12-17T04:29:39.849Z"}
+{"level":"info","message":"::1 - - [17/Dec/2025:04:29:39 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 116 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api","timestamp":"2025-12-17T04:29:39.850Z"}
+{"level":"info","message":"::1 - - [17/Dec/2025:04:32:21 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 34 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api","timestamp":"2025-12-17T04:32:21.953Z"}
+{"level":"info","message":"User registered successfully: aditria@mail.com","service":"acquisitions-api","timestamp":"2025-12-17T04:32:33.227Z"}
+{"level":"info","message":"::1 - - [17/Dec/2025:04:32:33 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 116 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api","timestamp":"2025-12-17T04:32:33.228Z"}
+{"level":"info","message":"::1 - - [17/Dec/2025:04:46:29 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 92 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api","timestamp":"2025-12-17T04:46:29.543Z"}
+{"level":"info","message":"::1 - - [17/Dec/2025:04:46:56 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 92 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api","timestamp":"2025-12-17T04:46:56.524Z"}
+{"level":"info","message":"::1 - - [17/Dec/2025:04:47:56 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 112 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api","timestamp":"2025-12-17T04:47:56.388Z"}
+{"level":"info","message":"::1 - - [17/Dec/2025:04:48:06 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 92 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api","timestamp":"2025-12-17T04:48:06.843Z"}
+{"level":"info","message":"User created successfully: aditria@mail.com","service":"acquisitions-api","timestamp":"2025-12-17T04:48:33.027Z"}
+{"level":"info","message":"User registered successfully: aditria@mail.com","service":"acquisitions-api","timestamp":"2025-12-17T04:48:33.034Z"}
+{"level":"info","message":"::1 - - [17/Dec/2025:04:48:33 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 117 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api","timestamp":"2025-12-17T04:48:33.036Z"}
+{"level":"info","message":"User created successfully: maryani@mail.com","service":"acquisitions-api","timestamp":"2025-12-17T04:49:56.746Z"}
+{"level":"info","message":"User registered successfully: maryani@mail.com","service":"acquisitions-api","timestamp":"2025-12-17T04:49:56.747Z"}
+{"level":"info","message":"::1 - - [17/Dec/2025:04:49:56 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 116 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api","timestamp":"2025-12-17T04:49:56.748Z"}

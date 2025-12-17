@@ -1,5 +1,5 @@
-import jwt, { verify } from 'jsonwebtoken';
-import logger from '../configs/logger';
+import jwt from 'jsonwebtoken';
+import logger from '../configs/logger.js';
 
 const JWT_SECRET = process.env.JWT_SECRET || 'appardana-jsm-acquisitions';
 const JWT_EXPIRES_IN = process.env.JWT_EXPIRES_IN || '1d';
